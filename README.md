@@ -24,3 +24,5 @@
     ```
 
 6. **Run using the default configuration.**
+
+7. **Swagger URL: http://localhost:8000/swagger.**
